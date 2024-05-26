@@ -106,4 +106,4 @@ If Docker is not preferred, the environment can be manually set up to run the fi
 
 ### Conclusion
 
-This in-memory file system provides a user-friendly interface and supports various file operations efficiently. The implementation ensures flexibility and scalability through a well-designed node structure and handles errors gracefully to ensure robustness. The provided Dockerfile and setup instructions make it easy to run the file system in a consistent environment. Every effort was made to implement the system as correctly as possible within the available time constraints, and apologies for any limitations due to ongoing end-semester exams.
+This in-memory file system provides a user-friendly interface and supports various file operations efficiently. The implementation ensures flexibility and scalability through a well-designed node structure and handles errors gracefully to ensure robustness. The provided Dockerfile and setup instructions make it easy to run the file system in a consistent environment.
